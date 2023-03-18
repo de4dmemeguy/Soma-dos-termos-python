@@ -1,0 +1,4 @@
+print("Soma dos termos")
+for i in range(2,33,3):
+    soma = (2+100)*33/2
+    print(soma)
